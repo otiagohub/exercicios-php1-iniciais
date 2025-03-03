@@ -55,8 +55,12 @@ Exemplo:
 3. JS: Comportamentos
 4. PHP: Back-End
 5. SQL: Manipulação de dados
- 
-Em seguida, use loop para iterar sobre esta estrutura de dados e exibir todos os dados em linhas de uma tabela HTML conforme exemplo abaixo:
+
+Em seguida, use loop para iterar sobre esta estrutura de dados e exibir todos os dados na págima usandos tags básicas, como `h2`, `p`, `b`, `ul` e `li`.
+
+### Desafios: 
+
+- Mostre os dados usando uma tabela HTML, semelhante ao exemplo abaixo:
  
 ID  | Linguagem   |   Descrição
 --- | ---------   |   --------
