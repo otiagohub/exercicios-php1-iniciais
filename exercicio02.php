@@ -6,15 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercício 02</title>
     <link rel="stylesheet" href="css/style-exercicios.css">
-    <style>
-        .container-flex { 
-            border: solid 2px black;
-            display: flex; 
-            justify-content: space-evenly;
-            margin: 10px auto;
-            padding: 4px;
-        }
-    </style>
 </head>
 
 <body>
