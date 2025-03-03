@@ -89,7 +89,7 @@ Mostre no HTML usando as tags de sua preferência.
 
 ---
 
-## Exercício 06
+## Exercício 06: manipulação de dados a partir de formulário
 
 Em um novo arquivo **exercicio06-formulario.php**, crie um formulário para cadastro (simulação) de produtos com os campos:
 
