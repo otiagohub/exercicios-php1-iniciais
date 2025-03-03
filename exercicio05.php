@@ -5,10 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercício 05 </title>
     <link rel="stylesheet" href="css/style-exercicios.css">
-    <style>
-        .aprovado { color: green; }
-        .reprovado { color: red; }
-    </style>
 </head>
 <body>
     <div class="container">
