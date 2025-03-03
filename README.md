@@ -98,4 +98,6 @@ Em um novo arquivo **exercicio06-formulario.php**, crie um formulário para cada
 - Preço (`input number`com valor mínimo de 100 e máximo de 10000, além de suporte à 2 casas decimais para os centavos)
 - Quantidade (`input number`, mínimo 0 e máximo de 1000, sem casas decimais)
 
-Em um novo arquivo **exercicio06-processamento.php**, faça a programação de processamento do formulário considerando o envio/recebimento via **POST**, **filtros de sanitização** e **validação** de campos obrigatórios. 
+Em um novo arquivo **exercicio06-processamento.php**, faça a programação de processamento do formulário considerando o envio/recebimento via **POST**, **filtros de sanitização** e **validação** de todos os campos como obrigatórios. 
+
+Faça também a exibição dos dados no HTML usando as tags de sua preferências.
