@@ -70,5 +70,20 @@ ID  | Linguagem   |   Descrição
 4   | PHP         |   Back-End
 5   | SQL         |   Manipulação de dados
  
+---
+
+## Exercício 05: funções
+
+Em um novo arquivo **exercicio05.php**, crie três variáveis para representar as notas de um aluno. 
+
+Crie duas **funções**: uma para os processos de **cálculo da média**, e outra para os processos de **verificação da situação** do aluno.
+
+Chamando as funções, passando os dados para elas e obtendo seus retornos, calcule a média destas notas e verifique a situação do aluno (aprovado ou reprovado) - o critério para ser aprovado é ter média a partir de 7.
+
+Mostre no HTML usando as tags de sua preferência.
  
+### Desafios:
+ 
+- Formate em **vermelho** se o aluno estiver **reprovado**, e em **verde** se estiver **aprovado**.
+- Adapte o exercício para que funcione com uma **lista de 5 alunos**, com suas respectivas 3 notas.
 
