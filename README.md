@@ -27,3 +27,15 @@ Em um novo arquivo **exercicio02.php**, crie um **array associativo** e um **obj
 Em seguida, mostre **apenas** os valores de **nome de usuario**, **email** e **idade** de cada pessoa dentro de tags HTML de conteúdo (como `article` ou `section`, além de `h2`, `p` etc).
  
 **Desafio:** destaque estes dois blocos de conteúdo usando CSS e mostre-os lado a lado usando `flexbox`.
+
+---
+
+## Exercício 03: estruturas condicionais
+
+Em um novo arquivo **exercicio03.php**, programe recursos que permitam avaliar o valor de um **salário** e **calcular um novo valor de salário** baseado nos seguintes critérios:
+
+- Se salário menor que 2000, calcule um novo salário com aumento de 15%
+- Senão, se salário menor ou igual a 3000, calcule um novo salário com aumento de 10%
+- Senão calcule um novo salário com aumento de 5%
+
+Mostre no HTML uma mensagem informando o valor do **salário antigo** *(antes do reajuste)* e do **novo salário** *(após o reajuste)*.
