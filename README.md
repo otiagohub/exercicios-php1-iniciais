@@ -87,3 +87,15 @@ Mostre no HTML usando as tags de sua preferência.
 - Formate em **vermelho** se o aluno estiver **reprovado**, e em **verde** se estiver **aprovado**.
 - Adapte o exercício para que funcione com uma **lista de 5 alunos**, com suas respectivas 3 notas.
 
+---
+
+## Exercício 06
+
+Em um novo arquivo **exercicio06-formulario.php**, crie um formulário para cadastro (simulação) de produtos com os campos:
+
+- Nome do produto (`input text`)
+- Fabricante (`select` de `options` com pelo menos 4 nomes de fabricantes) - ***Obs.: as opções desta lista devem ser carregadas a partir dos dados de um array PHP com os nomes dos fabricantes.*** 
+- Preço (`input number`com valor mínimo de 100 e máximo de 10000, além de suporte à 2 casas decimais para os centavos)
+- Quantidade (`input number`, mínimo 0 e máximo de 1000, sem casas decimais)
+
+Em um novo arquivo **exercicio06-processamento.php**, faça a programação de processamento do formulário considerando o envio/recebimento via **POST**, **filtros de sanitização** e **validação** de campos obrigatórios. 
