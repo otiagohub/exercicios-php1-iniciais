@@ -17,3 +17,13 @@ Criar **variáveis** e/ou **constantes** para:
 Coloque dados nestas variáveis e mostre no HTML uma mensagem apresentando o nome da pessoa, o nome do curso, a carga horária do curso e o limite de faltas.
  
 Destaque alguns destes dados usando CSS (com classes ou inline).
+
+---
+
+## Exercício 02: estruturas de dados com arrays e objetos
+ 
+Em um novo arquivo **exercicio02.php**, crie um **array associativo** e um **objeto genérico** para armazenar os dados fictícios de duas pessoas diferentes: **nome de usuario, email, senha, idade, sexo e cidade**.
+ 
+Em seguida, mostre **apenas** os valores de **nome de usuario**, **email** e **idade** de cada pessoa dentro de tags HTML de conteúdo (como `article` ou `section`, além de `h2`, `p` etc).
+ 
+**Desafio:** destaque estes dois blocos de conteúdo usando CSS e mostre-os lado a lado usando `flexbox`.
