@@ -1,5 +1,7 @@
 # Enunciados dos exercícios de PHP
 
+**Atenção!** Os arquivos indicados nos exercícios *(exercicio01.php, exercicio02.php etc)*, podem ser criados e estruturados por você ou, se preferir, você pode usar as versões iniciais disponibilizadas aqui mesmo no repositório.
+
 ## Exercício 01: uso de variáveis e/ou constantes PHP e integração com HTML
 
 Em seu XAMPP (pasta `htdocs`), crie uma pasta chamada **exercicios-php** e a abra no Visual Studio Code.
