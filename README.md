@@ -103,3 +103,8 @@ Em um novo arquivo **exercicio06-formulario.php**, crie um formulário para cada
 Em um novo arquivo **exercicio06-processamento.php**, faça a programação de processamento do formulário considerando o envio/recebimento via **POST**, **filtros de sanitização** e **validação** de todos os campos como obrigatórios. 
 
 Faça também a exibição dos dados no HTML usando as tags de sua preferências.
+
+### Desafio:
+ 
+- Calcule o valor total fazendo a multiplicação do preço pela quantidade
+- Mostre o valor total calculado.
