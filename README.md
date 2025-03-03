@@ -26,7 +26,9 @@ Em um novo arquivo **exercicio02.php**, crie um **array associativo** e um **obj
  
 Em seguida, mostre **apenas** os valores de **nome de usuario**, **email** e **idade** de cada pessoa dentro de tags HTML de conteúdo (como `article` ou `section`, além de `h2`, `p` etc).
  
-**Desafio:** destaque estes dois blocos de conteúdo usando CSS e mostre-os lado a lado usando `flexbox`.
+### Desafios:
+
+- Destaque estes dois blocos de conteúdo usando CSS e mostre-os lado a lado usando `flexbox`.
 
 ---
 
@@ -39,3 +41,30 @@ Em um novo arquivo **exercicio03.php**, programe recursos que permitam avaliar o
 - Senão calcule um novo salário com aumento de 5%
 
 Mostre no HTML uma mensagem informando o valor do **salário antigo** *(antes do reajuste)* e do **novo salário** *(após o reajuste)*.
+
+---
+
+## Exercício 04: estruturas de repetição (loops) e estruturas de dados
+
+Em um novo arquivo **exercicio04.php**, crie uma estrutura de dados com 5 nomes de linguagens, cada uma com um identificador numérico e uma pequena descrição.
+ 
+Exemplo:
+ 
+1. HTML: Estruturação
+2. CSS: Estilos
+3. JS: Comportamentos
+4. PHP: Back-End
+5. SQL: Manipulação de dados
+ 
+Em seguida, use loop para iterar sobre esta estrutura de dados e exibir todos os dados em linhas de uma tabela HTML conforme exemplo abaixo:
+ 
+ID  | Linguagem   |   Descrição
+--- | ---------   |   --------
+1   | HTML        |   Estruturação
+2   | CSS         |   Estilos
+3   | JS          |   Comportamentos
+4   | PHP         |   Back-End
+5   | SQL         |   Manipulação de dados
+ 
+ 
+
